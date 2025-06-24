@@ -86,7 +86,7 @@ SQL Features Used	    -:    CREATE, INSERT, SELECT, JOIN, GROUP BY, ORDER BY, WH
 Advanced SQL Window Functions-:   RANK(), NTILE(), LAG(), SUM() OVER, AVG() OVER
                                  CTEs (WITH clause), Subqueries,
                                  
-                                 Aggregations (SUM, COUNT, ROUND)
+  Aggregations (SUM, COUNT, ROUND)
                                  
 Date Functions      -:   	DATE_FORMAT, MIN, MAX, FIRST_VALUE()  
 
