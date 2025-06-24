@@ -71,7 +71,7 @@ Calculated cumulative sales, percentage contributions, and running totals.
 
 This provided a clear view of which product categories drive the most revenue.
 
-# Final Outcome
+# Conclusion
 This SQL-driven report showcases the ability to structure, manage, and analyze relational sales data using sophisticated techniques. The insights derived can inform decision-making in areas such as inventory planning, customer segmentation, and marketing strategies.
 
 
