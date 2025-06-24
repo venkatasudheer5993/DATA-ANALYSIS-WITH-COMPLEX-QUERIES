@@ -65,7 +65,7 @@ Assigned ranks within each product category based on revenue, offering insights 
 
 # Output
 
-
+![Image](https://github.com/user-attachments/assets/e64d0e30-d8fa-4b6f-84dd-007d6a8d3965)
 
 # 4.Customer Cohort and Retention Analysis
 
