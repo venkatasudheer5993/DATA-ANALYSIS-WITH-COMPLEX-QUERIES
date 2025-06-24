@@ -77,7 +77,7 @@ Calculated retention rates and cohort sizes using window functions, aiding in un
 
 # Output
 
-
+![Image](https://github.com/user-attachments/assets/135c25c1-10a2-42e3-995d-939a41b38cd5)
 
 # 5.Category-Level Sales Insights
 
