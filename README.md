@@ -84,7 +84,9 @@ This provided a clear view of which product categories drive the most revenue.
 SQL Features Used	    -:    CREATE, INSERT, SELECT, JOIN, GROUP BY, ORDER BY, WHERE
 
 Advanced SQL Window Functions-:   RANK(), NTILE(), LAG(), SUM() OVER, AVG() OVER
-                                 CTEs (WITH clause), Subqueries, Aggregations (SUM, COUNT, ROUND)
+                                 CTEs (WITH clause), Subqueries,
+                                 
+                                 Aggregations (SUM, COUNT, ROUND)
                                  
 Date Functions      -:   	DATE_FORMAT, MIN, MAX, FIRST_VALUE()  
 
