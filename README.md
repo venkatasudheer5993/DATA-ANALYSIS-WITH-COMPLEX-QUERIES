@@ -41,6 +41,10 @@ Applied window functions to compute moving averages, month-over-month changes, a
 
 This identified temporal sales trends and seasonal patterns.
 
+# Output
+
+![Image](https://github.com/user-attachments/assets/3a343202-afbf-44ed-867a-7c19e8e4aa6e)
+
 # 2.Customer Purchasing Patterns
 
 Aggregated data per customer to analyze total spending, order frequency, and recent activity.
