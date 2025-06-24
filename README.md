@@ -17,7 +17,7 @@
 
 In this task, I designed and executed a comprehensive sales analysis report using SQL. The objective was to generate insights and uncover patterns or trends by leveraging relational database design, data insertion, and advanced querying techniques such as window functions, subqueries, and Common Table Expressions (CTEs).
 
-# Database Setup and Data Population
+# Database Setup and Data Population:
 
 I began by creating a sample database named SalesAnalysis containing four core tables:
 
@@ -33,7 +33,7 @@ After creating the schema, I inserted a rich dataset that simulates real-world s
 
 # Analysis Performed
 
-# 1.Sales Trend by Month
+# 1.Sales Trend by Month:
 
 Used a CTE to calculate monthly sales.
 
@@ -41,11 +41,11 @@ Applied window functions to compute moving averages, month-over-month changes, a
 
 This identified temporal sales trends and seasonal patterns.
 
-# Output
+# Output:
 
 ![Image](https://github.com/user-attachments/assets/3a343202-afbf-44ed-867a-7c19e8e4aa6e)
 
-# 2.Customer Purchasing Patterns
+# 2.Customer Purchasing Patterns:
 
 Aggregated data per customer to analyze total spending, order frequency, and recent activity.
 
@@ -53,21 +53,21 @@ Ranked customers by total revenue, segmented them into quartiles, and calculated
 
 This revealed top-performing customers and buying behaviors.
 
-# Output
+# Output:
 
 ![Image](https://github.com/user-attachments/assets/e1b9bf9c-b716-411a-8cd5-d0b439d99cb5)
 
-# 3.Product Performance
+# 3.Product Performance:
 
 Analyzed each product’s total units sold, revenue, and customer reach using subqueries.
 
 Assigned ranks within each product category based on revenue, offering insights into best-selling items and underperformers.
 
-# Output
+# Output:
 
 ![Image](https://github.com/user-attachments/assets/e64d0e30-d8fa-4b6f-84dd-007d6a8d3965)
 
-# 4.Customer Cohort and Retention Analysis
+# 4.Customer Cohort and Retention Analysis:
 
 Grouped customers by their first purchase month to form cohorts.
 
@@ -75,11 +75,11 @@ Tracked how many of each cohort’s customers returned in subsequent months.
 
 Calculated retention rates and cohort sizes using window functions, aiding in understanding customer loyalty and engagement trends.
 
-# Output
+# Output:
 
 ![Image](https://github.com/user-attachments/assets/135c25c1-10a2-42e3-995d-939a41b38cd5)
 
-# 5.Category-Level Sales Insights
+# 5.Category-Level Sales Insights:
 
 Summarized sales by product category.
 
@@ -87,11 +87,11 @@ Calculated cumulative sales, percentage contributions, and running totals.
 
 This provided a clear view of which product categories drive the most revenue.
 
-# output
+# output:
 
+![Image](https://github.com/user-attachments/assets/3114b89f-c2d6-42de-874f-332316e31df6)
 
-
-# Tools and Technologies
+# Tools and Technologies:
 
  Component                	Details
 
@@ -112,7 +112,7 @@ Date Functions      -:   	DATE_FORMAT, MIN, MAX, FIRST_VALUE()
 
 
 
-# Conclusion
+# Conclusion:
 This SQL-driven report showcases the ability to structure, manage, and analyze relational sales data using sophisticated techniques. The insights derived can inform decision-making in areas such as inventory planning, customer segmentation, and marketing strategies.
 
 
