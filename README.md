@@ -71,6 +71,23 @@ Calculated cumulative sales, percentage contributions, and running totals.
 
 This provided a clear view of which product categories drive the most revenue.
 
+# Component               	Details
+
+  Database           	MySQL (or compatible SQL-based RDBMS)
+  
+  Language	          SQL (Structured Query Language)
+  
+  Data Modeling      	  Tables created for Customers, Products, Orders, OrderDetails
+  
+SQL Features Used	        CREATE, INSERT, SELECT, JOIN, GROUP BY, ORDER BY, WHERE
+
+Advanced SQL Window Functions:   RANK(), NTILE(), LAG(), SUM() OVER, AVG() OVER
+                                 CTEs (WITH clause), Subqueries, Aggregations (SUM, COUNT, ROUND)
+                                 
+Date Functions         	DATE_FORMAT, MIN, MAX, FIRST_VALUE()  
+
+
+
 # Conclusion
 This SQL-driven report showcases the ability to structure, manage, and analyze relational sales data using sophisticated techniques. The insights derived can inform decision-making in areas such as inventory planning, customer segmentation, and marketing strategies.
 
