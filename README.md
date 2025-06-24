@@ -93,7 +93,6 @@ This provided a clear view of which product categories drive the most revenue.
 
 # Tools and Technologies:
 
- Component                	Details
 
   Database        -:   	MySQL (or compatible SQL-based RDBMS)
   
