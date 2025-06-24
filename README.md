@@ -53,11 +53,19 @@ Ranked customers by total revenue, segmented them into quartiles, and calculated
 
 This revealed top-performing customers and buying behaviors.
 
+# Output
+
+![Image](https://github.com/user-attachments/assets/e1b9bf9c-b716-411a-8cd5-d0b439d99cb5)
+
 # 3.Product Performance
 
 Analyzed each product’s total units sold, revenue, and customer reach using subqueries.
 
 Assigned ranks within each product category based on revenue, offering insights into best-selling items and underperformers.
+
+# Output
+
+
 
 # 4.Customer Cohort and Retention Analysis
 
@@ -67,6 +75,10 @@ Tracked how many of each cohort’s customers returned in subsequent months.
 
 Calculated retention rates and cohort sizes using window functions, aiding in understanding customer loyalty and engagement trends.
 
+# Output
+
+
+
 # 5.Category-Level Sales Insights
 
 Summarized sales by product category.
@@ -74,6 +86,10 @@ Summarized sales by product category.
 Calculated cumulative sales, percentage contributions, and running totals.
 
 This provided a clear view of which product categories drive the most revenue.
+
+# output
+
+
 
 # Tools and Technologies
 
